@@ -2,7 +2,7 @@
 ### Requirements 
 ##### - Windows  
 * Turbo C++
-##### - Ubuntu Linux/MACOSX
+##### - Ubuntu Linux/MAC OSX
 * Dosbox
 * Turbo C++
 ### How to install Turbo C++ 
