@@ -1,10 +1,11 @@
-# Zontocq Motors 
+### Synopsis
+A simple Car Company Application that handles car modal data, accessories data, and annual reports. This was achieved using C++ and File Handling concept. 
 ### Requirements 
 ##### - Windows  
-* Turbo C++
+* Turbo C++ Tool
 ##### - Ubuntu Linux/MAC OSX
-* Dosbox
-* Turbo C++
+* Dosbox Emulator
+* Turbo C++ Tool
 ### How to install Turbo C++ 
  [Windows/Ubuntu Linux](http://bharatflake.blogspot.com/2012/07/how-to-instal-turbo-c-in-ubuntu.html)
 ### How to install Dosbox in Mac
