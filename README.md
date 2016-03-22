@@ -7,6 +7,8 @@
 * Turbo C++
 ### How to install Turbo C++ 
  [WINDOWS/LINUX](http://bharatflake.blogspot.com/2012/07/how-to-instal-turbo-c-in-ubuntu.html)
+### How to install Dosbox in Mac
+[Dosbox for Mac OSX](http://www.dosbox.com/wiki/DOSBox_and_Mac_OS_X)
 ### How to install Dosbox in linux
 ~~~~
 sudo apt-get install dosbox
