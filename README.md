@@ -1,15 +1,15 @@
 # Zontocq Motors 
 ### Requirements 
-##### - WINDOWS 
+##### - Windows  
 * Turbo C++
-##### - LINUX/MACOSX
+##### - Ubuntu Linux/MACOSX
 * Dosbox
 * Turbo C++
 ### How to install Turbo C++ 
- [Windows/Linux](http://bharatflake.blogspot.com/2012/07/how-to-instal-turbo-c-in-ubuntu.html)
+ [Windows/Ubuntu Linux](http://bharatflake.blogspot.com/2012/07/how-to-instal-turbo-c-in-ubuntu.html)
 ### How to install Dosbox in Mac
 [Dosbox for Mac OSX](http://www.dosbox.com/wiki/DOSBox_and_Mac_OS_X)
-### How to install Dosbox in linux
+### How to install Dosbox in Ubuntu Linux
 ~~~~
 sudo apt-get install dosbox
 ~~~~
