@@ -1,10 +1,10 @@
 # Zontocq Motors 
 ### Requirements 
 ##### - WINDOWS 
-* TURBO C++
+* Turbo C++
 ##### - LINUX/MACOSX
-* DOSBOX 
-* TURBO C++
+* Dosbox
+* Turbo C++
 ### How to install Turbo C++ 
  [WINDOWS/LINUX](http://bharatflake.blogspot.com/2012/07/how-to-instal-turbo-c-in-ubuntu.html)
 ### How to install Dosbox in linux
@@ -24,6 +24,7 @@ Z:\> C:
 C:\> cd TC/BIN
 C:\TC\BIN>TC.EXE
 ~~~~
+##### Skip the above step if you are using Windows Operating System
 ##### Open the downloaded Z-MOTORS-latest.cpp in Turbo C++  
 ##### Compile and Run the C++ file 
 
