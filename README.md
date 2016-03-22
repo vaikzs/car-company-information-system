@@ -2,7 +2,7 @@
 ### Requirements 
 ##### - WINDOWS 
 * TURBO C++
-##### - LINUX
+##### - LINUX/MACOSX
 * DOSBOX 
 * TURBO C++
 ### How to install Turbo C++ 
