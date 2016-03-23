@@ -36,4 +36,7 @@ Compile and Run the C++ file
 ### Output
 ![Home Menu](https://bytebucket.org/vaikunthsridharan/car-company-information-system/raw/96ead153043b8b3b839db1e4f0ac5942c0bc0d4f/images/menu.png?token=7a91e15b6575ddb545998bfa0214bae2ca1fd591)
 
+### Note 
+We used Turbo C++ in Windows OS, it is not a necessity. 
+
 ##### Copyrights (C) Vaikunth Sridharan, Arun Shankar, and Siddarath Kumar
