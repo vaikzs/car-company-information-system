@@ -15,21 +15,21 @@ A simple Car Company Application that handles car modal data, accessories data, 
 sudo apt-get install dosbox
 ~~~~
 ### Instructions
-##### Open Dosbox and Mount your home/<username> as C: 
+Open Dosbox and Mount your home/<username> as C: 
 
 ~~~~
 Z:\> mount c ~
 ~~~~
-##### Change directory to Turbo C++ location and Open Turbo C++ 
+Change directory to Turbo C++ location and Open Turbo C++ 
 
 ~~~~
 Z:\> C: 
 C:\> cd TC/BIN
 C:\TC\BIN>TC.EXE
 ~~~~
-##### Skip the above step if you are using Windows Operating System
-##### Open the downloaded Z-MOTORS-latest.cpp in Turbo C++  
-##### Compile and Run the C++ file 
+Skip the above step if you are using Windows Operating System
+Open the downloaded Z-MOTORS-latest.cpp in Turbo C++  
+Compile and Run the C++ file 
 
 ![TURBO C++](https://bytebucket.org/vaikunthsridharan/car-company-information-system/raw/96ead153043b8b3b839db1e4f0ac5942c0bc0d4f/images/TURBOC.png?token=553a49b2c4bf5ff326ff1f1912c514a6f43d3e32)
 
