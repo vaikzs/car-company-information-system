@@ -39,4 +39,4 @@ Compile and Run the C++ file
 ## Note 
 We used Turbo C++ in Windows OS, it is not a necessity. 
 
-##### Copyrights (C) Vaikunth Sridharan, Arun Shankar, and Siddarath Kumar
+##### Copyright © 2015 Vaikunth Sridharan, Arun Shankar, and Siddarath Kumar
