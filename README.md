@@ -1,3 +1,4 @@
+# Car Company Information System
 ## Synopsis
 A simple Car Company Application that handles car modal data, accessories data, and annual reports. This was achieved using C++ and File Handling concept. 
 ## Specifications 
